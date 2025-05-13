@@ -93,3 +93,6 @@ fig = px.pie(top_50_users, values='num_followers', names='username', ...)
 
 - `time_created` may contain invalid entries, handled with `errors='coerce'` to ensure robustness.
 - This project focuses on visualization only; no advanced modeling is included.
+
+# Download the Data Set Here:
+https://www.kaggle.com/code/fahadmehfoooz/clubhouse-eda
