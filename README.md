@@ -95,4 +95,5 @@ fig = px.pie(top_50_users, values='num_followers', names='username', ...)
 - This project focuses on visualization only; no advanced modeling is included.
 
 # Download the Data Set Here:
-https://www.kaggle.com/code/fahadmehfoooz/clubhouse-eda
+[Kagle](https://www.kaggle.com/code/fahadmehfoooz/clubhouse-eda)
+
