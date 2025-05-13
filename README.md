@@ -94,6 +94,14 @@ fig = px.pie(top_50_users, values='num_followers', names='username', ...)
 - `time_created` may contain invalid entries, handled with `errors='coerce'` to ensure robustness.
 - This project focuses on visualization only; no advanced modeling is included.
 
+  ### Example Results:
+ 
+![Screenshot from 2025-05-13 18-16-39](https://github.com/user-attachments/assets/1940eb9e-f9e4-44be-a9ed-6544ff4fc357)
+![Screenshot from 2025-05-13 18-17-08](https://github.com/user-attachments/assets/f83e8a29-627f-4bdd-9387-4ce3b3162990)
+![Screenshot from 2025-05-13 18-17-25](https://github.com/user-attachments/assets/585f435e-063a-4122-8903-6887ba7496ed)
+![Screenshot from 2025-05-13 18-17-46](https://github.com/user-attachments/assets/b8105b83-b50a-4b9e-b585-e8f40d344f80)
+
+
 # Download the Data Set Here:
 [Kagle](https://www.kaggle.com/code/fahadmehfoooz/clubhouse-eda)
 
